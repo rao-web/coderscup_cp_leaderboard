@@ -8,7 +8,7 @@
 
 ## About The Project
 
-A real-time scoreboard system built for **ACM Coders' Cup '25**, themed around the castle and its four houses: Gryffindor, Hufflepuff, Ravenclaw and Slytherin. This project provides live rankings and statistics for competitive programming module of Coders' Cup teams across all four batches, with house-wise rankings and points tracking.
+A real-time scoreboard system built for **ACM Coders' Cup '26**, themed around the castle and its four houses: Gryffindor, Hufflepuff, Ravenclaw and Slytherin. This project provides live rankings and statistics for competitive programming module of Coders' Cup teams across all four batches, with house-wise rankings and points tracking.
 
 The system automatically scrapes data from **VJudge**, processes it through a robust backend, and delivers instant updates to a dynamic frontend through WebSocket connections - ensuring you never miss a moment of the action!
 
