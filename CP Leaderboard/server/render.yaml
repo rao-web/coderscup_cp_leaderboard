@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: coderscup-scoreboard-backend
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 4000
+      - key: NODE_ENV
+        value: production
