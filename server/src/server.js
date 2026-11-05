@@ -17,6 +17,7 @@ app.use(cors({
     'https://coderscup-scoreboard-2025-raahims-projects-f828742c.vercel.app',
     'https://scoreboard.acmnuceskhi.com',
     'https://coderscupcpleaderboard.vercel.app/',
+    'https://coderscup-cp-leaderboard.ethiodeploy.app/',
   ],
   credentials: true
 }));
